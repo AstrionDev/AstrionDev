@@ -1,35 +1,17 @@
 ## Full-Stack / AI Developer
 
-I build web apps and AI agents that do real work  
-(not just prompt politely and hope for the best).
+I build software and AI agents that survive production,  
+not just demos and slide decks.
 
 ---
 
-### 🤖 AI / Agent Systems
-- LangChain — tools, RAG, memory
-- LangGraph — stateful, multi-step agents
-- CrewAI — multi-agent workflows (controlled chaos)
-
----
-
-### 🌐 Web Stack
-**Frontend**
-- React
-- Next.js
-
-**Backend**
-- Python: FastAPI, Django
-- Ruby: Rails
-
----
-
-### 🧠 Philosophy
+### Philosophy
 - Agents need state, not vibes
-- Simple systems > clever hacks
-- If it’s hard to debug, it’s not done
+- Simple systems beat clever ones
+- If it can’t be debugged, it’s probably not finished
 
 ---
 
 > Shipping code.  
-> Teaching machines.  
-> Debugging both.
+> Fixing models.  
+> Politely blaming myself.
